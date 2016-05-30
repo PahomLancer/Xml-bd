@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="WINDOWS-1251"?>
+<catalog>
+<book title = "Матан" author = "Леонов Игорь Васильевич">
+<description>Матанчик</description>
+</book>
+<book title = "Русский язык" author = "Филиппов Аркадий Васильевич">
+<description>2001</description>
+</book>
+<book title = "Английский язык" author = "Керовый Андрей Михайлович">
+<description>Рассширенное издание</description>
+</book>
+</catalog>

@@ -1,0 +1,9 @@
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\bin\Debug\xml-app.exe.config
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\bin\Debug\xml-app.exe
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\bin\Debug\xml-app.pdb
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\obj\Debug\xml_app.Form1.resources
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\obj\Debug\xml_app.Properties.Resources.resources
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\obj\Debug\xml-app.csproj.GenerateResource.Cache
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\obj\Debug\xml-app.exe
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\obj\Debug\xml-app.pdb
+c:\users\mozgg\documents\visual studio 2013\Projects\xml-app\xml-app\obj\Debug\xml-app.csprojResolveAssemblyReference.cache
